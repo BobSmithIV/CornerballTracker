@@ -7,7 +7,7 @@
 // @include      http://*.newcompte.fr:*
 // @version      1.0
 // @grant        none
-// @downloadURL  none
+// @downloadURL  https://github.com/BobSmithIV/CornerballTracker/raw/master/cornerball-tracker.user.js
 // ==/UserScript==
 
 // Global variables:
