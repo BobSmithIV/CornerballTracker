@@ -1,9 +1,9 @@
-# CornerballTracker
+# Cornerball Tracker
 Keeps track of the score in the Cornerball minigame in TagPro.  
 
 ***
 
-Cornerball is played 3v3 on the OFM map.  Teams aim to score by trapping their flag carrier into a corner, thus protecting them from the other team.  You receive one point if you sucessfully score in the corner in which your team spawns, three points if you score in the corner where your opponents spawn, and two points in both of the other two.  
+Cornerball is played 3v3 on the OFM map with all settings at 300%.  Teams aim to score by trapping their flag carrier into a corner, thus protecting them from the other team.  You receive one point if you sucessfully score in the corner in which your team spawns, three points if you score in the corner where your opponents spawn, and two points in both of the other two.  
 
 ***
 
